@@ -15,8 +15,9 @@ hr {
 }
 
 .faded {
-  color: rgba(255, 255, 255, 0.9);
+  color: rgba(255, 255, 255, 1.0);
 }
+
 
 header.startup {
   background-position: center;
@@ -31,7 +32,8 @@ header.startup hr {
 }
 
 header.startup h1 {
-  font-size: 2rem;
+  font-size: 2.5rem;
+  text-shadow: 4px 4px black;
 }
 
 .btn {
